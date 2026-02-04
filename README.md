@@ -62,11 +62,11 @@
       <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/pin/?username=RanitManik&repo=foody&layout=compact&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" alt="Pinned Repo" />
     </picture>
   </a>
-  <a href="https://github.com/RanitManik/lucide-note">
+  <a href="https://github.com/nikhil-partap/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/pin/?username=RanitManik&repo=lucide-note&layout=compact&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" />
+      <!-- <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/pin/?username=RanitManik&repo=lucide-note&layout=compact&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/pin/?username=RanitManik&repo=lucide-note&layout=compact&show_owner=true&description_lines_count=2" />
-      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/pin/?username=RanitManik&repo=lucide-note&layout=compact&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" alt="Pinned Repo" />
+      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/pin/?username=RanitManik&repo=lucide-note&layout=compact&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" alt="Pinned Repo" /> -->
     </picture>
   </a>
 </div>
@@ -74,11 +74,11 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div width="100%" align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"> -->
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ranit.vercel.app/?username=RanitManik&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+      <!-- <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ranit.vercel.app/?username=RanitManik&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ranit.vercel.app/?username=RanitManik&no-bg=false&margin-w=4&row=1" />
-      <img width="804px" alt="GitHub Trophies" src="https://github-profile-trophy-ranit.vercel.app/?username=RanitManik&no-frame=true&hide_border=true&no-bg=false&margin-w=4&row=1" />
+      <img width="804px" alt="GitHub Trophies" src="https://github-profile-trophy-ranit.vercel.app/?username=RanitManik&no-frame=true&hide_border=true&no-bg=false&margin-w=4&row=1" /> -->
     </picture>
   <a/>
 </div>
@@ -98,7 +98,7 @@
 <hr>
 
 <div align="center">
-  <a href="https://wakatime.com/@ranitmanik"><img height="20" padding-left=20 src="https://wakatime.com/badge/user/6c66cc47-ce26-48cc-a555-22494865c546.svg" alt=""/></a>
+  <!-- <a href="https://wakatime.com/@ranitmanik"><img height="20" padding-left=20 src="https://wakatime.com/badge/user/6c66cc47-ce26-48cc-a555-22494865c546.svg" alt=""/></a> -->
   <a href="https://github.com/antonkomarev/github-profile-views-counter"><img height="20" src="https://komarev.com/ghpvc/?username=RanitManik&color=blue" alt=""/></a>
   <a href="https://github.com/Platane/snk">
     <picture>
