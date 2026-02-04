@@ -1,22 +1,23 @@
 <img align="right" width="30%" src="Assets/Programming.gif">
 
-# Hi👋, I'm [Ranit Manik](https://me.5dev.in)
+# Hi👋, I'm [Nikhil Pratap Singh](https://nikhilsingh.me)
 
 <h3>A Tech Enthusiast from India</h3>
 
-- 👨‍💼 Former Frontend Developer **(Full time)** at [**Busiman**](https://github.com/Busiman-official).  
-- 🏫 Pursuing a Bachelor's Degree in Computer Science at [**CEMK**](https://cemkolaghat.in/).  
-- 📚 Proficient in **Full Stack Development**.  
-- 🌐 Visit my [**Portfolio**](https://me.5dev.in) to explore projects and achievements.
-- 📧 Reach me via [**Email**](mailto:ranit.manik@icloud.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/ranit-manik/).  
-- 📍 Based in **Mecheda, West Bengal, India**.  
+<!-- - 👨‍💼 Former Frontend Developer **(Full time)** at [**Busiman**](https://github.com/Busiman-official). -->
+
+- 🏫 Pursuing a Bachelor's Degree in Computer Science at [**CEMK**](https://cemkolaghat.in/).
+- 📚 Proficient in **Full Stack Development**.
+- 🌐 Visit my [**Portfolio**](https://nikhilsingh.me) to explore projects and achievements.
+- 📧 Reach me via [**Email**](mailto:nikhilpartap.web@gmail.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/nikhil-partap/).
+- 📍 Based in **Saharanpur, UP, India**.
 
 <hr>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div width="100%" align="center">
- <a href="https://github.com/RanitManik">
+ <a href="https://github.com/nikhil-partap">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api?username=RanitManik&theme=radical&hide_border=true&card_width=495&include_all_commits=true&count_private=true&show_icons=true" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api?username=RanitManik&include_all_commits=true&count_private=true&show_icons=true&card_width=495" />
@@ -109,4 +110,5 @@
 </div>
 
 <!-- yhype Installation -->
+
 ![](https://hit.yhype.me/github/profile?user_id=138437760)

@@ -4,20 +4,20 @@ Thank you for considering contributing to this project! Your help is greatly app
 
 ## How to Contribute
 
-1. **Fork the Repository**: 
+1. **Fork the Repository**:
    - Navigate to the repository you want to contribute to.
    - Click the "Fork" button at the top right corner of the page.
 
 2. **Clone Your Fork**:
    - Open your terminal and run:
      ```sh
-     git clone https://github.com/RanitManik/ranitmanik.git
+     git clone https://github.com/nikhil-partap/nikhil-partap.git
      ```
 
 3. **Create a Branch**:
    - Move into the cloned directory:
      ```sh
-     cd ranitmanik
+     cd nikhil-partap
      ```
    - Create a new branch for your changes:
      ```sh
@@ -70,21 +70,23 @@ Thank you for considering contributing to this project! Your help is greatly app
 
 - Use clear and concise commit messages.
 - Follow the format:
+
   ```
   [type]: [subject]
-  
+
   [body]
-  
+
   [footer]
   ```
 
   Example:
+
   ```
   feat: add new feature for user authentication
-  
+
   Implemented user login and registration functionality.
   Added tests for the new feature.
-  
+
   Closes #123
   ```
 
@@ -108,6 +110,6 @@ Thank you for considering contributing to this project! Your help is greatly app
 
 ## Contact
 
-- If you have any questions or need further assistance, feel free to reach out via [Email](mailto:ranitmanik.dev@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ranit-manik/).
+- If you have any questions or need further assistance, feel free to reach out via [Email](mailto:nikhilpartap.web@gmail.com) or [LinkedIn](https://www.linkedin.com/in/nikhil-partap/).
 
 We appreciate your contribution and look forward to collaborating with you!
