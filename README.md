@@ -89,9 +89,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,md,css,sass,tailwind,bootstrap,svg,figma,ps" />
     <br />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,vite,react,nodejs,express," />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,vite,react,nodejs,express,mongodb,prisma" />
     <br />
-    <img src="https://skillicons.dev/icons?i=prisma,postgres,mongodb,firebase,vercel,aws,git,github,bash,linux" />
+    <img src="https://skillicons.dev/icons?i=postgres,firebase,vercel,aws,git,github,bash,linux" />
   </a>
 </div>
 
