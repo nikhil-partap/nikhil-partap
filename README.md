@@ -3,10 +3,10 @@
 # Hi👋, I'm [Nikhil Pratap Singh](https://nikhilsingh.me)
 
 <h3>A Tech Enthusiast from India</h3>
+ 
+- 👨‍💼 Full Stack Developer <!-- **(Full time)**  at [**Busiman**](https://#)-->.
 
-<!-- - 👨‍💼 Former Frontend Developer **(Full time)** at [**Busiman**](https://github.com/Busiman-official). -->
-
-- 🏫 Pursuing a Bachelor's Degree in Computer Science at [**CEMK**](https://cemkolaghat.in/).
+- 🏫 Pursuing a Bachelor's Degree in Computer Science at [**Chitkara University**](https://chitkara.edu.in/).
 - 📚 Proficient in **Full Stack Development**.
 - 🌐 Visit my [**Portfolio**](https://nikhilsingh.me) to explore projects and achievements.
 - 📧 Reach me via [**Email**](mailto:nikhilpartap.web@gmail.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/nikhil-partap/).
