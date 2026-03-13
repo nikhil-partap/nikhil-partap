@@ -6,7 +6,7 @@
 
 <!-- - 👨‍💼 Former Frontend Developer **(Full time)** at [**Busiman**](https://github.com/Busiman-official). -->
 
-- 🏫 Pursuing a Bachelor's Degree in Computer Science at [**CEMK**](https://cemkolaghat.in/).
+- 🏫 Pursuing a Bachelor's Degree in Computer Science at [**Chitkara University**](https://cemkolaghat.in/).
 - 📚 Proficient in **Full Stack Development**.
 - 🌐 Visit my [**Portfolio**](https://nikhilsingh.me) to explore projects and achievements.
 - 📧 Reach me via [**Email**](mailto:nikhilpartap.web@gmail.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/nikhil-partap/).
@@ -87,11 +87,11 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,md,css,sass,tailwind,bootstrap,svg,figma,ps,ai,pr,ae,blender" />
+    <img src="https://skillicons.dev/icons?i=html,md,css,sass,tailwind,bootstrap,svg,figma,ps" />
     <br />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,go,python,java,vite,react,redux,next,nodejs,express,graphql,electron" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,vite,react,nodejs,express,mongodb,prisma" />
     <br />
-    <img src="https://skillicons.dev/icons?i=prisma,postgres,mongodb,firebase,vercel,netlify,aws,docker,git,github,bash,linux,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=postgres,firebase,vercel,aws,git,github,bash,linux" />
   </a>
 </div>
 
