@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Arrow Functions and Lexical this Demo</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 40px;
+        background: #f4f7f6;
+        color: #333;
+        line-height: 1.6;
+      }
+      h1 {
+        color: #0056b3;
+        border-bottom: 2px solid #ccc;
+        padding-bottom: 10px;
+      }
+      .section-title {
+        color: #2c3e50;
+        margin-top: 15px;
+        font-size: 1.1rem;
+        font-weight: bold;
+      }
+      #output {
+        background: #fff;
+        padding: 20px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        font-family: monospace;
+        font-size: 1.05rem;
+      }
+      .note {
+        font-style: italic;
+        color: #d9534f;
+      }
+      .header-info {
+        font-weight: bold;
+        color: #000;
+        font-size: 1.2rem;
+        margin-bottom: 20px;
+        border-bottom: 1px dashed #ccc;
+        padding-bottom: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Arrow Functions & Lexical 'this'</h1>
+    <div id="output"></div>
+
+    <script>
+      const out = document.getElementById("output");
+
+      function print(text) {
+        out.innerHTML += text + "<br>";
+      }
+
+      print("<div class='header-info'>Student: Nikhil - 2510990340</div>");
+
+      // 1. Basic Arrow Function
+      print("<div class='section-title'>1. BASIC ARROW FUNCTION :</div>");
+      const add = (a, b) => a + b;
+      print("Sum of 5 and 10 using Arrow Function: " + add(5, 10) + "<br>");
+
+      // 2. Lexical 'this' Demonstration
+      print(
+        "<div class='section-title'>2. LEXICAL 'THIS' DEMONSTRATION :</div>",
+      );
+      let student = {
+        name: "Nikhil",
+        course: "BE CSE",
+        showDetails: function () {
+          // Regular function gets its own 'this'
+          print("Regular Function - Name: " + this.name);
+
+          // Arrow function inherits 'this' lexically from showDetails
+          let innerArrow = () => {
+            print("Arrow Function (Lexical) - Course: " + this.course);
+          };
+          innerArrow();
+        },
+      };
+      student.showDetails();
+      print("<br>");
+
+      // 3. Why Arrow Functions are Different
+      print(
+        "<div class='section-title'>3. WHY ARROW FUNCTIONS ARE DIFFERENT :</div>",
+      );
+      let teacher = {
+        name: "Dr. Ashima",
+        sayName: () => {
+          // 'this' here refers to the global window object, not 'teacher'
+          print("Arrow Function at top level - Name: " + this.name);
+        },
+      };
+      teacher.sayName();
+      print(
+        "<span class='note'>(Notice how the top-level arrow function couldn't find 'this.name' because it binds to the window object)</span>",
+      );
+    </script>
+  </body>
+</html>

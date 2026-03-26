@@ -4,7 +4,7 @@
 
 <h3>A Tech Enthusiast from India</h3>
 
-<!-- - 👨‍💼 Former Frontend Developer **(Full time)** at [**Busiman**](https://github.com/Busiman-official). -->
+<!-- - 👨‍💼 Former Frontend Developer **(Full time)** at [**Busiman**](https://github.com/). -->
 
 - 🏫 Pursuing a Bachelor's Degree in Computer Science at [**Chitkara University**](https://cemkolaghat.in/).
 - 📚 Proficient in **Full Stack Development**.
@@ -17,19 +17,11 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div width="100%" align="center">
- <a href="https://github.com/nikhil-partap">
-    <picture>
-      <!-- <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api?username=RanitManik&theme=radical&hide_border=true&card_width=495&include_all_commits=true&count_private=true&show_icons=true" /> -->
-      <!-- <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api?username=RanitManik&include_all_commits=true&count_private=true&show_icons=true&card_width=495" /> -->
-      <!-- <img width="400px" align="center" src="https://github-readme-stats-ranit.vercel.app/api?username=RanitManik&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_width=495" alt="GitHub Stats" /> -->
-    </picture>
+  <a href="https://github.com/nikhil-partap">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nikhil-partap&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/nikhil-partap">
-    <picture>
-      <!-- <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-ranit.vercel.app?user=RanitManik&theme=radical&hide_border=true" /> -->
-      <!-- <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-ranit.vercel.app?user=RanitManik" /> -->
-      <!-- <img width="400px" align="center" src="https://github-readme-streak-stats-ranit.vercel.app?user=RanitManik&theme=radical&hide_border=true" alt="Streak Stats" /> -->
-    </picture>
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=nikhil-partap&theme=radical&hide_border=true" alt="Streak Stats" />
   </a>
 </div>
 
@@ -37,50 +29,19 @@
 
 <div width="100%" align="center">
   <a href="https://github.com/nikhil-partap">
-    <picture>
-      <!-- <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=RanitManik&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" /> -->
-      <!-- <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=RanitManik&layout=compact&langs_count=14&size_weight=0.5&count_weight=0.5" /> -->
-      <!-- <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=RanitManik&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" alt="Top Languages" /> -->
-    </picture>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-partap&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
   </a>
-  <a href="https://github.com/nikhil-partap">
-    <picture>
-      <!-- <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=RanitManik&layout=compact&theme=radical&hide_border=true&langs_count=14&hide=other" /> -->
-      <!-- <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=RanitManik&layout=compact&langs_count=14&hide=other" /> -->
-      <!-- <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=RanitManik&layout=compact&theme=radical&hide_border=true&langs_count=14" alt="Wakatime Stats&hide=other" /> -->
-    </picture>
-  </a>
-</div>
-
-<h2 align="center">📌 Pinned Repositories</h2>
-
-<div width="100%" align="center">
- <!-- <a href="https://github.com/RanitManik/foody"> -->
-    <picture>
-      <!-- <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/pin/?username=RanitManik&repo=foody&layout=compact&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/pin/?username=RanitManik&repo=foody&layout=compact&show_owner=true&description_lines_count=2" />
-      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/pin/?username=RanitManik&repo=foody&layout=compact&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" alt="Pinned Repo" /> -->
-    </picture>
-  </a>
-  <a href="https://github.com/nikhil-partap/">
-    <picture>
-      <!-- <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/pin/?username=RanitManik&repo=lucide-note&layout=compact&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/pin/?username=RanitManik&repo=lucide-note&layout=compact&show_owner=true&description_lines_count=2" />
-      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/pin/?username=RanitManik&repo=lucide-note&layout=compact&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" alt="Pinned Repo" /> -->
-    </picture>
+  <a href="https://wakatime.com/@nikhil_pratap">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=nikhil_pratap&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="WakaTime Stats" />
   </a>
 </div>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div width="100%" align="center">
-  <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"> -->
-    <picture>
-      <!-- <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ranit.vercel.app/?username=RanitManik&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ranit.vercel.app/?username=RanitManik&no-bg=false&margin-w=4&row=1" />
-      <img width="804px" alt="GitHub Trophies" src="https://github-profile-trophy-ranit.vercel.app/?username=RanitManik&no-frame=true&hide_border=true&no-bg=false&margin-w=4&row=1" /> -->
-    </picture>
-  <a/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nikhil-partap&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  </a>
 </div>
 
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -98,15 +59,7 @@
 <hr>
 
 <div align="center">
-  <!-- <a href="https://wakatime.com/@ranitmanik"><img height="20" padding-left=20 src="https://wakatime.com/badge/user/6c66cc47-ce26-48cc-a555-22494865c546.svg" alt=""/></a> -->
-  <a href="https://github.com/antonkomarev/github-profile-views-counter"><img height="20" src="https://komarev.com/ghpvc/?username=RanitManik&color=blue" alt=""/></a>
-  <!-- <a href="https://github.com/Platane/snk"> -->
-    <picture>
-      <!-- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RanitManik/ranitmanik/blob/output/github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/RanitManik/ranitmanik/blob/output/github-snake.svg" />
-      <img width="804px" alt="github-snake" src="https://github.com/RanitManik/ranitmanik/blob/output/github-snake-dark.svg" /> -->
-    </picture>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=nikhil-partap&color=blue" alt="Profile Views" />
 </div>
 
 <!-- yhype Installation -->
