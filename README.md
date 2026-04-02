@@ -17,10 +17,10 @@
 
 <div width="100%" align="center">
   <a href="https://github.com/nikhil-partap">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nikhil-partap&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img width="49%" src="https://github-readme-stats-nikhil-tau.vercel.app/api?username=nikhil-partap&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/nikhil-partap">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=nikhil-partap&theme=radical&hide_border=true" alt="Streak Stats" />
+    <img width="49%" src="https://streak-stats.demolab.com?user=nikhil-partap&theme=radical&hide_border=true" alt="Streak Stats" />
   </a>
 </div>
 
@@ -28,10 +28,10 @@
 
 <div width="100%" align="center">
   <a href="https://github.com/nikhil-partap">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-partap&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+    <img width="49%" src="https://github-readme-stats-nikhil-tau.vercel.app/api/top-langs/?username=nikhil-partap&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
   </a>
   <a href="https://wakatime.com/@nikhil_pratap">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=nikhil_pratap&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="WakaTime Stats" />
+    <img width="49%" src="https://wakatime.com/share/@nikhil_pratap/b350021b-b173-46fa-a5a1-152e05897e87.svg" alt="WakaTime Stats" />
   </a>
 </div>
 
@@ -39,7 +39,7 @@
 
 <div width="100%" align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nikhil-partap&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=nikhil-partap&theme=radical&no-frame=true&margin-w=4&row=1" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -60,7 +60,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nikhil-partap&color=blue" alt="Profile Views" />
 </div>
-
-<!-- yhype Installation -->
 
 ![](https://hit.yhype.me/github/profile?user_id=138437760)
