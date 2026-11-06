@@ -22,7 +22,6 @@ const { user } = await gql(
   `query($login: String!) {
     user(login: $login) {
       createdAt
-      pullRequests { totalCount }
       repositories(ownerAffiliations: OWNER, isFork: false, first: 100, orderBy: { field: PUSHED_AT, direction: DESC }) {
         totalCount
         nodes {
@@ -39,6 +38,7 @@ const now = new Date();
 const days = [];
 let totalContributions = 0;
 let commitsThisYear = 0;
+let contributionsThisYear = 0;
 for (let y = new Date(user.createdAt).getUTCFullYear(); y <= now.getUTCFullYear(); y++) {
   const from = new Date(Date.UTC(y, 0, 1)).toISOString();
   const to = (y === now.getUTCFullYear() ? now : new Date(Date.UTC(y, 11, 31, 23, 59, 59))).toISOString();
@@ -56,7 +56,10 @@ for (let y = new Date(user.createdAt).getUTCFullYear(); y <= now.getUTCFullYear(
   );
   const c = u.contributionsCollection;
   totalContributions += c.contributionCalendar.totalContributions;
-  if (y === now.getUTCFullYear()) commitsThisYear = c.totalCommitContributions + c.restrictedContributionsCount;
+  if (y === now.getUTCFullYear()) {
+    commitsThisYear = c.totalCommitContributions + c.restrictedContributionsCount;
+    contributionsThisYear = c.contributionCalendar.totalContributions;
+  }
   for (const w of c.contributionCalendar.weeks) for (const d of w.contributionDays) days.push(d);
 }
 
@@ -99,7 +102,7 @@ function statsCard(t) {
   const rows = [
     ['Total contributions', fmt(totalContributions)],
     [`Commits in ${now.getUTCFullYear()}`, fmt(commitsThisYear)],
-    ['Pull requests', fmt(user.pullRequests.totalCount)],
+    [`Contributions in ${now.getUTCFullYear()}`, fmt(contributionsThisYear)],
     ['Repositories', fmt(user.repositories.totalCount)],
     ['Current streak', `${fmt(current)} day${current === 1 ? '' : 's'}`],
     ['Longest streak', `${fmt(longest)} day${longest === 1 ? '' : 's'}`],
